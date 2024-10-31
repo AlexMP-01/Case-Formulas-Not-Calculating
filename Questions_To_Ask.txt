@@ -1,2 +1,47 @@
 # Excel-problem
 A user reports that the formulas in their Excel spreadsheet are not calculating. Instead of showing the result of the formula, the cells display the formula itself (e.g., =SUM(A1:A10)). Device: Laptop (Windows 11) Excel Version: Microsoft Excel (latest version) Excel File: A financial report spreadsheet.
+
+Suggested Questions to Ask:
+
+-Is Excel's calculation mode set to "Manual" or "Automatic"?
+
+-Are there any text indicators in the formula cells (e.g., an apostrophe before the formula)?
+
+-Has the file been shared with others, or is it stored on a network drive?
+
+-Has the cell format for the formula cells been set to something other than "General" or "Number"?
+
+-Have there been any recent Excel updates or changes to the computer's settings?
+
+-Is the formula showing an error code (e.g., #NAME?, #VALUE!) or just the formula itself?
+
+https://spreadsheeto.com/formulas-not-calculating/
+https://support.microsoft.com/search/results?query=error+in+formulas+calculating&isEnrichedQuery=false
+
+
+Basic troubleshooting for Excel can often resolve common issues that users face. Key steps include:
+
+-Checking if the calculation mode is set to 'Automatic' (found under Formulas > Calculation Options).
+
+-Ensuring that cells are formatted correctly (e.g., not set to 'Text' format).
+
+-Restarting the application to refresh any temporary issues.
+
+-Updating Excel to the latest version to fix known bugs.
+
+https://learn.microsoft.com/en-us/office/troubleshoot/excel/available-resources-errors
+https://bsuite365.com/blog/excel/excel-advanced-troubleshooting/
+
+There are several common mistakes users make in Excel that can lead to formulas not calculating properly. These include:
+
+*Entering a formula as text (preceded by an apostrophe).
+
+*Not using proper cell references, which can lead to errors or unexpected results.
+
+*Forgetting to press Enter after entering a formula, which may leave the formula in edit mode.
+
+*Using the wrong format for numbers, such as entering them with commas or currency symbols when not necessary.
+
+https://www.myonlinetraininghub.com/10-common-excel-mistakes-to-avoid
+https://www.goskills.com/Excel/Resources/Excel-errors
+
