@@ -10,3 +10,6 @@ A user reports that the formulas in their Excel spreadsheet are not calculating.
 -Restarting the application to refresh any temporary issues.
 
 -Updating Excel to the latest version to fix known bugs.
+
+https://learn.microsoft.com/en-us/office/troubleshoot/excel/available-resources-errors
+https://bsuite365.com/blog/excel/excel-advanced-troubleshooting/
